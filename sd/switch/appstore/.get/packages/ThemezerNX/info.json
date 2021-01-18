@@ -1,0 +1,11 @@
+{
+  "title": "ThemezerNX",
+  "author": "suchmememanyskill",
+  "category": "tool",
+  "version": "1.1.2",
+  "url": "https://github.com/suchmememanyskill/themezer-nx/releases",
+  "license": "GPLv3",
+  "description": "A switch theme downloader ",
+  "details": "This app downloads themes from https://themezer.net/ and installs them through the nxthemesinstaller.\\n\\nYou probably want to have the nxthemesinstaller either installed via the hbappstore or as nro in the switch folder in order for this app to be able to install themes.\\nYou can also download themes, and they'll be stored inside sd:/Themes/ThemezerNX/(target)/(creator)/(themename).nxtheme\\n\\n\\n\\n",
+  "changelog": "1.1.2\\n\\nThemezer-nx now auto starts at the Packs tab, rather than the All tab\\nThe LR buttons can now be used to navigate between pages"
+}

@@ -1,0 +1,7 @@
+3.8.04
+Multi target search for fast convergence when you know the structure of the target in memory.
+You can move up and down the pointer chain and create new chain to target other memory locations of interest.
+New for .04
+Now you can Rstick click on a memory in memory explorer to help setup multi target search for this memory target.
+Check out the release note on github to learn how to use the new features
+https://github.com/tomvita/EdiZon-SE/releases/tag/3.8.04 

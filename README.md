@@ -5,7 +5,6 @@
 
 - GoldLeaf (0.9) By XorTroll
 - Hekate Toolbox
-- uLaunch by XorTroll
 - Checkpoint
 - EdiZon
 
